@@ -1,0 +1,10 @@
+- membuat pengajuan baik RAB ataupun Langsung => status pengajuan = 0 (pengjuan dapat diedit oleh user)
+- kirim pengjuan ke pusat/holding => status pengjuan = 1 (pengajuan hanya dapat di apprope oleh pusat, user hanya bisa lihat status pengajuan)
+- holding memberikan approve terhadap pengajuan => status pengajuan = 2 (pengjuan di approve tahap pertama level mengetahui)
+- holding menyetujui pangajuan => status pengajuan = 3 (pengajuan di setujui oleh holding dan holding tidak dapat menedit lagi, user juga tidak dapat mengedit lagi)
+- 
+
+
+
+- membuat table tracking untuk status pengajuan
+- field_table = id, id_pengjuan, tanggal approve, user_action, keterangan tracking pengajuan

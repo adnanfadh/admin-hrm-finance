@@ -1,0 +1,31 @@
+[33m9742480[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: checkout: moving from main to main
+[33m9742480[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{1}: checkout: moving from develop to main
+[33mb7af1e5[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{2}: checkout: moving from main to develop
+[33m9742480[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{3}: checkout: moving from main to main
+[33m9742480[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{4}: Branch: renamed refs/heads/main to refs/heads/main
+[33m9742480[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{6}: checkout: moving from develop to main
+[33mb7af1e5[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{7}: checkout: moving from main to develop
+[33m9742480[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{8}: checkout: moving from develop to main
+[33mb7af1e5[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{9}: checkout: moving from main to develop
+[33m9742480[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{10}: checkout: moving from develop to main
+[33mb7af1e5[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{11}: commit: employee menu
+[33m9b55cca[m HEAD@{12}: checkout: moving from develop to develop
+[33m9b55cca[m HEAD@{13}: commit: first commit branch develop
+[33m9742480[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{14}: checkout: moving from main to develop
+[33m9742480[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{15}: checkout: moving from develop to main
+[33m9742480[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{16}: checkout: moving from main to develop
+[33m9742480[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{17}: checkout: moving from develop to main
+[33m9742480[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{18}: checkout: moving from main to develop
+[33m9742480[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{19}: commit: commit
+[33m1ec5a38[m HEAD@{20}: commit: change template
+[33m2add9af[m HEAD@{21}: commit: refisi-1
+[33mc02f971[m HEAD@{22}: commit: 22/09/21
+[33m5e784ff[m HEAD@{23}: commit: hrm dti manualBook
+[33mcb611fe[m HEAD@{24}: commit: seeding
+[33mceec2ce[m HEAD@{25}: commit: ticket
+[33mfaab835[m HEAD@{26}: commit: penggajian, peserta pon, bpjs
+[33m87578da[m HEAD@{27}: commit: crud pegawai,bidang dan jabatan
+[33meb8cb72[m HEAD@{28}: commit: commit notifikasi
+[33ma3f36f9[m HEAD@{29}: reset: moving to HEAD~
+[33m6c79343[m HEAD@{30}: commit: perbaikan notifikasi
+[33ma3f36f9[m HEAD@{31}: commit (initial): First commit
